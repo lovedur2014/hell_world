@@ -7,3 +7,4 @@ Test confilict
 Test MM
 Test diff
 test -a option
+test branch
